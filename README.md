@@ -26,17 +26,11 @@
     * django
 
 #### Ansible
-
 #### Docker
-
 #### shell
-
 #### Ruby
-
 #### Node.js
-
 #### MySQL
-
 #### OracleDB
 
 <!--
