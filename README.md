@@ -1,5 +1,44 @@
-My Profile
-Infrastructure engineer, Application Developer
+## My Profile
+
+#### Infrastructure engineer, Application Developer
+
+## Skills
+
+#### AWS
+
+  * EC2
+  * S3
+  * cloudwatch
+  * Lambda
+  * RDS
+  * API Gateway
+  * CodeStar
+  * CodeDeploy
+  * CodeCommit	
+  * Auto Scaling
+  * CloudFormation
+
+#### Python
+
+  * Webservice development
+  * Web scraping
+  * Framework
+    * django
+
+#### Ansible
+
+#### Docker
+
+#### shell
+
+#### Ruby
+
+#### Node.js
+
+#### MySQL
+
+#### OracleDB
+
 <!--
 **mayopac8/mayopac8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
