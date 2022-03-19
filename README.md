@@ -8,7 +8,12 @@
 
   * EC2
   * S3
-  * cloudwatch
+  * CloudWatch
+  * EKS
+  * SES
+  * SNS
+  * Route53
+  * CloudFront
   * Lambda
   * RDS
   * API Gateway
