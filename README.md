@@ -9,19 +9,21 @@
   * EC2
   * S3
   * CloudWatch
+  * RDS
   * EKS
   * SES
   * SNS
   * Route53
   * CloudFront
   * Lambda
-  * RDS
   * API Gateway
   * CodeStar
   * CodeDeploy
   * CodeCommit	
   * Auto Scaling
   * CloudFormation
+  * WAF＆Shield
+  * kinessis
 
 #### Python
 
