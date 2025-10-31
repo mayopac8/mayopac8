@@ -6,6 +6,8 @@
 
 #### AWS
 
+  * VPC
+  * IAM
   * EC2
   * S3
   * CloudWatch
@@ -14,6 +16,10 @@
   * SES
   * SNS
   * Route53
+  * EventBridge
+  * GuardDuty
+  * CloudTrail
+  * Security Hub
   * CloudFront
   * Lambda
   * API Gateway
